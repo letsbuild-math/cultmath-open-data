@@ -1,0 +1,43 @@
+company,sic,sic_description,gross_margin_fy2019_pct,gross_margin_latest_pct,latest_fy,change_pts,revenue_latest_usd,revenue_tag
+HERSHEY CO,2060,Sugar & Confectionery Products,45.36,33.55,2025,-11.81,11202263000,RevenueFromContractWithCustomerExcludingAssessedTax
+"Mondelez International, Inc.",2000,Food and Kindred Products,39.96,28.38,2025,-11.59,36441000000,Revenues
+"Utz Brands, Inc.",2090,Miscellaneous Food Preparations & Kindred Products,33.04,24.9,2025,-8.13,1409200000,RevenueFromContractWithCustomerExcludingAssessedTax
+STEPAN CO,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",18.28,11.57,2025,-6.7,2180274000,RevenueFromContractWithCustomerExcludingAssessedTax
+"Lamb Weston Holdings, Inc.",2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",26.71,20.56,2026,-6.15,6451300000,RevenueFromContractWithCustomerIncludingAssessedTax
+Simply Good Foods Co,2000,Food and Kindred Products,41.56,36.24,2025,-5.33,1331321000,RevenueFromContractWithCustomerExcludingAssessedTax
+"TYSON FOODS, INC.",2015,Poultry Slaughtering and Processing,11.84,6.54,2025,-5.3,53309000000,Revenues
+CAMPBELL'S Co,2000,Food and Kindred Products,33.22,28.14,2026,-5.08,9636000000,Revenues
+Monster Beverage Corp,2086,Bottled & Canned Soft Drinks & Carbonated Waters,59.95,55.85,2025,-4.11,7492709000,RevenueFromContractWithCustomerExcludingAssessedTax
+CONAGRA BRANDS INC.,2000,Food and Kindred Products,27.81,23.92,2026,-3.9,11612800000,RevenueFromContractWithCustomerExcludingAssessedTax
+MOLSON COORS BEVERAGE CO,2082,Malt Beverages,50.97,47.35,2025,-3.62,13734300000,RevenueFromContractWithCustomerExcludingAssessedTax
+EDGEWELL PERSONAL CARE Co,2844,"Perfumes, Cosmetics & Other Toilet Preparations",45.15,41.6,2025,-3.55,2253700000,Revenues
+BROWN FORMAN CORP,2080,Beverages,72.92,69.5,2026,-3.42,3975000000,RevenueFromContractWithCustomerIncludingAssessedTax
+"BELLRING BRANDS, INC.",2000,Food and Kindred Products,36.49,33.26,2025,-3.24,1996200000,Revenues
+"Post Holdings, Inc.",2040,Grain Mill Products,31.54,28.68,2025,-2.87,7922700000,Revenues
+Keurig Dr Pepper Inc.,2080,Beverages,57.03,54.2,2025,-2.83,15351000000,RevenueFromContractWithCustomerExcludingAssessedTax
+"TreeHouse Foods, Inc.",2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",18.58,16.35,2024,-2.23,3354000000,RevenueFromContractWithCustomerExcludingAssessedTax
+MCCORMICK & CO INC,2090,Miscellaneous Food Preparations & Kindred Products,40.12,37.9,2025,-2.22,6723700000,Revenues
+ESTEE LAUDER COMPANIES INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",77.21,75.5,2026,-1.71,15608000000,RevenueFromContractWithCustomerExcludingAssessedTax
+"B&G Foods, Inc.",2000,Food and Kindred Products,23.07,21.81,2025,-1.27,1932454000,RevenueFromContractWithCustomerExcludingAssessedTax
+PEPSICO INC,2080,Beverages,55.13,54.15,2025,-0.99,91854000000,Revenues
+NATIONAL BEVERAGE CORP,2086,Bottled & Canned Soft Drinks & Carbonated Waters,37.9,37.04,2026,-0.86,1201354000,Revenues
+CHURCH & DWIGHT CO INC /DE/,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",45.53,44.73,2025,-0.8,6107100000,RevenueFromContractWithCustomerExcludingAssessedTax
+BOSTON BEER CO INC,2082,Malt Beverages,52.17,51.5,2025,-0.68,2012926000,RevenueFromContractWithCustomerIncludingAssessedTax
+GENERAL MILLS INC,2040,Grain Mill Products,34.13,33.63,2026,-0.51,19486600000,RevenueFromContractWithCustomerExcludingAssessedTax
+MARZETTI CO,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",24.94,24.73,2026,-0.21,1871759000,RevenueFromContractWithCustomerExcludingAssessedTax
+Archer-Daniels-Midland Co,2070,Fats & Oils,6.41,6.27,2025,-0.14,85530000000,Revenues
+SANFILIPPO JOHN B & SON INC,2060,Sugar & Confectionery Products,18.06,17.96,2026,-0.1,1107246000,Revenues
+ECOLAB INC.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",43.91,44.46,2025,0.55,15741400000,RevenueFromContractWithCustomerExcludingAssessedTax
+"CONSTELLATION BRANDS, INC.",2080,Beverages,54.0,54.62,2025,0.61,10208700000,RevenueFromContractWithCustomerIncludingAssessedTax
+COLGATE PALMOLIVE CO,2844,"Perfumes, Cosmetics & Other Toilet Preparations",59.42,60.11,2025,0.69,20101000000,RevenueFromContractWithCustomerExcludingAssessedTax
+COCA COLA CO,2080,Beverages,60.77,61.63,2025,0.85,47061000000,Revenues
+DARLING INGREDIENTS INC.,2070,Fats & Oils,23.03,24.01,2025,0.98,5715175000,RevenueFromContractWithCustomerExcludingAssessedTax
+HAIN CELESTIAL GROUP INC,2000,Food and Kindred Products,18.93,20.11,2026,1.17,1736286000,RevenueFromContractWithCustomerExcludingAssessedTax
+CLOROX CO /DE/,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",43.9,45.23,2025,1.33,7093000000,RevenueFromContractWithCustomerExcludingAssessedTax
+PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",48.63,50.18,2026,1.55,84039000000,Revenues
+COTY INC.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",60.26,62.89,2026,2.63,6118000000,RevenueFromContractWithCustomerExcludingAssessedTax
+PILGRIMS PRIDE CORP,2015,Poultry Slaughtering and Processing,9.38,12.75,2025,3.37,17878291000,RevenueFromContractWithCustomerExcludingAssessedTax
+KELLANOVA,2040,Grain Mill Products,32.27,35.65,2024,3.38,12749000000,Revenues
+Ingredion Inc,2040,Grain Mill Products,21.13,25.32,2025,4.19,7430000000,RevenueFromContractWithCustomerExcludingAssessedTax
+"Coca-Cola Consolidated, Inc.",2086,Bottled & Canned Soft Drinks & Carbonated Waters,34.61,39.74,2025,5.13,6899716000,RevenueFromContractWithCustomerExcludingAssessedTax
+"Celsius Holdings, Inc.",2086,Bottled & Canned Soft Drinks & Carbonated Waters,41.65,50.39,2025,8.73,1355630000,RevenueFromContractWithCustomerExcludingAssessedTax

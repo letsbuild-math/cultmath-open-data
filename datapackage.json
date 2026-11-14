@@ -1,0 +1,285 @@
+{
+  "name": "cultmath-open-data",
+  "title": "CULT+MATH open data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SEC EDGAR XBRL",
+      "path": "https://data.sec.gov"
+    }
+  ],
+  "resources": [
+    {
+      "path": "advertising-intensity/categories.csv",
+      "name": "advertising-intensity-categories",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "sic"
+          },
+          {
+            "name": "category"
+          },
+          {
+            "name": "filers"
+          },
+          {
+            "name": "median_pct"
+          },
+          {
+            "name": "mean_pct"
+          },
+          {
+            "name": "stdev_pct"
+          },
+          {
+            "name": "cv"
+          },
+          {
+            "name": "cv_after_cut"
+          },
+          {
+            "name": "filers_after_cut"
+          }
+        ]
+      }
+    },
+    {
+      "path": "advertising-intensity/named_filers.csv",
+      "name": "advertising-intensity-named-filers",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "period"
+          },
+          {
+            "name": "advertising_intensity_pct"
+          },
+          {
+            "name": "multiple_of_median"
+          }
+        ]
+      }
+    },
+    {
+      "path": "advertising-intensity/rejected_rows.csv",
+      "name": "advertising-intensity-rejected-rows",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "conflict"
+          },
+          {
+            "name": "note"
+          }
+        ]
+      }
+    },
+    {
+      "path": "cpg-margin-recovery/controls.csv",
+      "name": "cpg-margin-recovery-controls",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "sic"
+          },
+          {
+            "name": "sic_description"
+          },
+          {
+            "name": "gross_margin_fy2019_pct"
+          },
+          {
+            "name": "gross_margin_latest_pct"
+          },
+          {
+            "name": "latest_fy"
+          },
+          {
+            "name": "change_pts"
+          }
+        ]
+      }
+    },
+    {
+      "path": "cpg-margin-recovery/filers.csv",
+      "name": "cpg-margin-recovery-filers",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "sic"
+          },
+          {
+            "name": "sic_description"
+          },
+          {
+            "name": "gross_margin_fy2019_pct"
+          },
+          {
+            "name": "gross_margin_latest_pct"
+          },
+          {
+            "name": "latest_fy"
+          },
+          {
+            "name": "change_pts"
+          },
+          {
+            "name": "revenue_latest_usd"
+          },
+          {
+            "name": "revenue_tag"
+          }
+        ]
+      }
+    },
+    {
+      "path": "cpg-margin-recovery/sic_groups.csv",
+      "name": "cpg-margin-recovery-sic-groups",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "sic"
+          },
+          {
+            "name": "sic_description"
+          },
+          {
+            "name": "filers"
+          },
+          {
+            "name": "gross_margin_latest_pct"
+          },
+          {
+            "name": "change_pts"
+          }
+        ]
+      }
+    },
+    {
+      "path": "semiconductor-margins/excluded_filers.csv",
+      "name": "semiconductor-margins-excluded-filers",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "group"
+          },
+          {
+            "name": "reason"
+          }
+        ]
+      }
+    },
+    {
+      "path": "semiconductor-margins/hardware_filers.csv",
+      "name": "semiconductor-margins-hardware-filers",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "sic"
+          },
+          {
+            "name": "sic_description"
+          },
+          {
+            "name": "gross_margin_fy2019_pct"
+          },
+          {
+            "name": "gross_margin_latest_pct"
+          },
+          {
+            "name": "latest_fy"
+          },
+          {
+            "name": "change_pts"
+          }
+        ]
+      }
+    },
+    {
+      "path": "semiconductor-margins/rejected_tags.csv",
+      "name": "semiconductor-margins-rejected-tags",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "fiscal_year"
+          },
+          {
+            "name": "cost_of_goods_usd"
+          },
+          {
+            "name": "candidate_tag"
+          },
+          {
+            "name": "candidate_revenue_usd"
+          },
+          {
+            "name": "implied_gross_margin"
+          }
+        ]
+      }
+    },
+    {
+      "path": "semiconductor-margins/semiconductor_filers.csv",
+      "name": "semiconductor-margins-semiconductor-filers",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company"
+          },
+          {
+            "name": "sic"
+          },
+          {
+            "name": "gross_margin_fy2019_pct"
+          },
+          {
+            "name": "gross_margin_latest_pct"
+          },
+          {
+            "name": "latest_fy"
+          },
+          {
+            "name": "change_pts"
+          }
+        ]
+      }
+    }
+  ]
+}

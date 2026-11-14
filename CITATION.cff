@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this data, cite it as below and link the study page."
+title: "CULT+MATH open data"
+authors:
+  - family-names: "Da-Wariboko"
+    given-names: "Ipalibo"
+    affiliation: "CULT+MATH LLC"
+date-released: 2026-11-14
+license: CC-BY-4.0
+url: "https://cultmath.com/research"
+repository-code: "https://github.com/letsbuild-math/cultmath-open-data"
