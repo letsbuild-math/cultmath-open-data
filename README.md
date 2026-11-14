@@ -43,6 +43,8 @@ The study pages still show these findings. Only the raw tables stay off GitHub.
 
 CULT+MATH runs an MCP server that searches and returns the full studies.
 See `mcp/README.md` or [cultmath.com/agent](https://cultmath.com/agent).
+For LangChain or the Vercel AI SDK: `npm install @cultmath/agent-tools`
+([npm](https://www.npmjs.com/package/@cultmath/agent-tools)).
 
 ## License and citation
 
